@@ -13,5 +13,10 @@
 - create:
     - ~/projects/
 
-# - shell:
+- shell:
 #   - [git submodule update --init --recursive, Installing submodules]
+    - echo "hey guys"
+    - command: ./test.zsh
+      stdout: true
+      stderr: true
+
