@@ -7,7 +7,8 @@
 - link:
 #     ~/.vim: vim
 #     ~/.vimrc: vimrc
-    ~/.zshrc: zshrc
+    ~/.zshrc: 
+    ~/.gitconfig: 
 
 - create:
     - ~/projects/
